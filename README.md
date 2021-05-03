@@ -1,3 +1,6 @@
+# Live
+https://6040db2f6d42c31613fbdb17--ikacper-profile-card-component.netlify.app/
+
 # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
